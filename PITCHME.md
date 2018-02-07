@@ -8,17 +8,19 @@
 
 ## Características
 
-Utiliza inventario de nodos
++++
 
-Es modular
+- Utiliza inventario de nodos
 
-Es declarativo
+- Es modular
 
-Sin agente
+- Es declarativo
 
-SSH por default. Soporta PowerShell
+- Sin agente
 
-Utiliza Playbooks!
+- SSH por default. Soporta PowerShell
+
+- Utiliza Playbooks!
 
 ---
 
