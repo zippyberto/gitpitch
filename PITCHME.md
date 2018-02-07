@@ -2,17 +2,22 @@
 
 ---
 
-# Que es Ansible
+# ¿Que es Ansible?
 
 ---
 
 ## Caracteristicas
 
 Utiliza inventario de nodos
+
 Es modular
+
 Es declarativo
+
 Sin agente
+
 SSH por default, pero soporta PowerShell
+
 Utiliza Playbooks!
 
 ---
