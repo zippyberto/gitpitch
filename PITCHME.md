@@ -1,5 +1,3 @@
-![Logo](images/cencotest.png)
-
 # Ansible
 
 ---
