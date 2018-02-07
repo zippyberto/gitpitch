@@ -26,6 +26,8 @@
 
 ## Requisitos
 
++++
+
 #### Controlador
 - Python 2.4
 - Acceso a nodos por red
