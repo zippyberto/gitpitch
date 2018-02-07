@@ -37,7 +37,7 @@
 
 +++
 
-Aca van las fotos
+Aca pasamos a los ejemplos en la consola
 
 ---
 
