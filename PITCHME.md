@@ -2,11 +2,11 @@
 
 ---
 
-# ¿Que es Ansible?
+# ¿Qué es Ansible?
 
 ---
 
-## Caracteristicas
+## Características
 
 Utiliza inventario de nodos
 
@@ -16,7 +16,7 @@ Es declarativo
 
 Sin agente
 
-SSH por default, pero soporta PowerShell
+SSH por default. Soporta PowerShell
 
 Utiliza Playbooks!
 
@@ -24,13 +24,17 @@ Utiliza Playbooks!
 
 ## Requisitos
 
-### Controlador
+#### Controlador
 - Python 2.4
 - Acceso a nodos por red
 
-### Nodo
+#### Nodo
 - Python 2.6-2.7 o 3.5
 - SSH
+
+---
+
+## Demo
 
 ---
 
