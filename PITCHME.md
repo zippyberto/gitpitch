@@ -36,6 +36,10 @@ Utiliza Playbooks!
 
 ## Demo
 
++++
+
+Aca van las fotos
+
 ---
 
 @title[Preguntas]
