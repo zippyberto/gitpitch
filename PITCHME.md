@@ -11,15 +11,10 @@
 +++
 
 - Utiliza inventario de nodos
-
 - Es modular
-
 - Es declarativo
-
 - Sin agente
-
-- SSH por default. Soporta PowerShell
-
+- ssh por default. Soporta PowerShell
 - Utiliza Playbooks!
 
 ---
@@ -30,11 +25,11 @@
 
 #### Controlador
 - Python 2.4
-- Acceso a nodos por red
+- Acceso a nodos por ssh
 
 #### Nodo
 - Python 2.6-2.7 o 3.5
-- SSH
+- ssh
 
 ---
 
